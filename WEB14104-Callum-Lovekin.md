@@ -14,6 +14,8 @@
 
 - [OneTweet](http://fourthfloor.raveweb.net/clovekin/2016/10/20/onetweet/)
 
+- [Union Hack](http://fourthfloor.raveweb.net/clovekin/2016/10/20/onetweet/)
+
 - [Formative](http://fourthfloor.raveweb.net/clovekin/2016/10/31/formative-assesment/)
 
 - [Peer Learning](http://fourthfloor.raveweb.net/clovekin/2016/11/22/peer-learning/)
@@ -24,4 +26,11 @@
 
 - [CSS Tricks](https://www.google.com)
 
+### Git Projects
+
+- [EyeBombing](https://github.com/OculusBomb/EyeBombing)
+
+- [OneTweet](https://github.com/CallumLovekin28/OneTweet)
+
+- [Union Hack](https://github.com/Flagsrave/FlagsIdeas)
 
