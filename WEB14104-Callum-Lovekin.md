@@ -22,7 +22,7 @@
 
 - [The Webs Grain](http://fourthfloor.raveweb.net/clovekin/2016/11/22/the-webs-grain/)
 
-- [Code On Your Plate](https://www.google.com)
+- [Code On Your Plate](http://fourthfloor.raveweb.net/clovekin/)
 
 - [CSS Tricks](https://www.google.com)
 
@@ -35,6 +35,8 @@
 - [Union Hack](https://github.com/Flagsrave/FlagsIdeas)
 
 - [Code On Your Plate](https://github.com/CallumLovekin28/Code-On-Your-Plate)
+
+- [CSS Tricks] (https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Animate.css.md)
 
 
 
