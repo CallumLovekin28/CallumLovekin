@@ -14,7 +14,7 @@
 
 **Eye Bombing** 
 
--EyeBombing](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
+[Blog Post](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
 
 - [OneTweet](http://fourthfloor.raveweb.net/clovekin/2016/10/20/onetweet/)
 
