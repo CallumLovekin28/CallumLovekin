@@ -10,11 +10,36 @@
 
 ### Introduction
 
-### Blog Posts
 
-**Eye Bombing** 
 
-[Blog Post](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
+### Eye Bombing
+
+This was an interesting project and was a great introduction to a different way of seeing things and helping me have a different design eye in my every day life!
+
+You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
+And Git Repo [Here](https://github.com/OculusBomb/EyeBombing)
+
+### Union Hack 
+
+I really enjoyed looking at flags and just how complex they are, the thought that goes behind creating a flag is incredible and this project really helped me see flags differently and helped me with how I design!
+
+You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
+And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas)
+
+### One Tweet 
+
+Using only a limted amount of text was a struggle but really pushed my creative mind. Having to create a typography poster with a limted amount of content was a struggle but excercised the creative part of my brain.
+
+You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
+And Git Repo [Here](https://github.com/CallumLovekin28/OneTweet)
+
+
+
+
+
+
+
+
 
 - [OneTweet](http://fourthfloor.raveweb.net/clovekin/2016/10/20/onetweet/)
 
