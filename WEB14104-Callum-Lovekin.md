@@ -50,7 +50,10 @@ I love playing with CSS and this project was so much fun for me! I had to resear
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/11/29/css-tricks/)
 
-And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Animate.css.md)
+Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Animate.css.md)
+
+And Thimble demo [Here](https://thimbleprojects.org/callumlovekin/141339/)
+
 
 
 
