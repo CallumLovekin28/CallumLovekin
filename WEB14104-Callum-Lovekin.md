@@ -12,7 +12,7 @@
 
 Over the course of these projects i have learned not only alot about design but also myself and what I wish to persue in the next 2 years of the course. The last couple months have been a great taster of things to come over the rest of the course and I have really enjoyed what I have learned.
 
-### Eye Bombing
+### Eye Bombing :eyes: :bomb:
 
 This was an interesting project and was a great introduction to a different way of seeing things and helping me have a different design eye in my every day life!
 
@@ -20,7 +20,7 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/OculusBomb/EyeBombing)
 
-### Union Hack 
+### Union Hack :gb:
 
 I really enjoyed looking at flags and just how complex they are, the thought that goes behind creating a flag is incredible and this project really helped me see flags differently and helped me with how I design!
 
@@ -28,7 +28,7 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas/blob/master/Callum.md)
 
-### One Tweet 
+### One Tweet :point_up::bird:
 
 Using only a limted amount of text was a struggle but really pushed my creative mind. Having to create a typography poster with a limted amount of content was a struggle but excercised the creative part of my brain.
 
@@ -44,7 +44,7 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
-### CSS Tricks
+### CSS Tricks :page_facing_up: :computer:
 
 I love playing with CSS and this project was so much fun for me! I had to research Animate.css and create a demo showing off what it can do and it was my favourite project, so much that it is what I produced my summative on!
 
