@@ -17,6 +17,7 @@ Over the course of these projects i have learned not only alot about design but 
 This was an interesting project and was a great introduction to a different way of seeing things and helping me have a different design eye in my every day life!
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
+
 And Git Repo [Here](https://github.com/OculusBomb/EyeBombing)
 
 ### Union Hack 
@@ -24,6 +25,7 @@ And Git Repo [Here](https://github.com/OculusBomb/EyeBombing)
 I really enjoyed looking at flags and just how complex they are, the thought that goes behind creating a flag is incredible and this project really helped me see flags differently and helped me with how I design!
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
+
 And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas)
 
 ### One Tweet 
@@ -31,6 +33,7 @@ And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas)
 Using only a limted amount of text was a struggle but really pushed my creative mind. Having to create a typography poster with a limted amount of content was a struggle but excercised the creative part of my brain.
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
+
 And Git Repo [Here](https://github.com/CallumLovekin28/OneTweet)
 
 ### Code On Your Plate
@@ -38,6 +41,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/OneTweet)
 I previously already had knowledge of html and css and this project was by far my favourite one of them all. I learned some new pieces of CSS that I did not know and had a lot of fun using them.
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/)
+
 And Git Repo [Here](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
 
