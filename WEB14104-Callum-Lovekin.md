@@ -62,7 +62,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
 - [Code On Your Plate](http://fourthfloor.raveweb.net/clovekin/)
 
-- [CSS Tricks](https://www.google.com)
+- [CSS Tricks](http://fourthfloor.raveweb.net/clovekin/2016/11/29/css-tricks/)
 
 ### Git Projects
 
