@@ -68,7 +68,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/An
 
 - [The Webs Grain](http://fourthfloor.raveweb.net/clovekin/2016/11/22/the-webs-grain/)
 
-- [Code On Your Plate](http://fourthfloor.raveweb.net/clovekin/)
+- [Code On Your Plate](http://fourthfloor.raveweb.net/clovekin/2016/11/27/code-on-your-plate/)
 
 - [CSS Tricks](http://fourthfloor.raveweb.net/clovekin/2016/11/29/css-tricks/)
 
