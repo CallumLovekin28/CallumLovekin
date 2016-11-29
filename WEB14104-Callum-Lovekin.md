@@ -44,6 +44,14 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
+### CSS Tricks
+
+I love playing with CSS and this project was so much fun for me! I had to research Animate.css and create a demo showing off what it can do and it was my favourite project, so much that it is what I produced my summative on!
+
+You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/11/29/css-tricks/)
+
+And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Animate.css.md)
+
 
 
 ### Blog Posts
