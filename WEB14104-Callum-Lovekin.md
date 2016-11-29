@@ -20,7 +20,7 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/OculusBomb/EyeBombing)
 
-### Union Hack :gb:
+### Union Hack :gb: :crossed_flags:
 
 I really enjoyed looking at flags and just how complex they are, the thought that goes behind creating a flag is incredible and this project really helped me see flags differently and helped me with how I design!
 
@@ -36,7 +36,7 @@ You can find my blog post for this project [Here](http://fourthfloor.raveweb.net
 
 And Git Repo [Here](https://github.com/CallumLovekin28/OneTweet)
 
-### Code On Your Plate
+### Code On Your Plate :fork_and_knife: :page_facing_up:
 
 I previously already had knowledge of html and css and this project was by far my favourite one of them all. I learned some new pieces of CSS that I did not know and had a lot of fun using them.
 
