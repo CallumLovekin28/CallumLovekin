@@ -26,7 +26,7 @@ I really enjoyed looking at flags and just how complex they are, the thought tha
 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
 
-And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas)
+And Git Repo [Here](https://github.com/Flagsrave/FlagsIdeas/blob/master/Callum.md)
 
 ### One Tweet 
 
@@ -78,7 +78,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/An
 
 - [OneTweet](https://github.com/CallumLovekin28/OneTweet)
 
-- [Union Hack](https://github.com/Flagsrave/FlagsIdeas)
+- [Union Hack](https://github.com/Flagsrave/FlagsIdeas/blob/master/Callum.md)
 
 - [Code On Your Plate](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
