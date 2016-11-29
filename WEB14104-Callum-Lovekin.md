@@ -10,7 +10,7 @@
 
 ### Introduction
 
-
+Over the course of these projects i have learned not only alot about design but also myself and what I wish to persue in the next 2 years of the course. The last couple months have been a great taster of things to come over the rest of the course and I have really enjoyed what I have learned.
 
 ### Eye Bombing
 
@@ -33,13 +33,18 @@ Using only a limted amount of text was a struggle but really pushed my creative 
 You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/2016/10/23/union-hack/)
 And Git Repo [Here](https://github.com/CallumLovekin28/OneTweet)
 
+### Code On Your Plate
+
+I previously already had knowledge of html and css and this project was by far my favourite one of them all. I learned some new pieces of CSS that I did not know and had a lot of fun using them.
+
+You can find my blog post for this project [Here](http://fourthfloor.raveweb.net/clovekin/)
+And Git Repo [Here](https://github.com/CallumLovekin28/Code-On-Your-Plate)
 
 
 
+### Blog Posts
 
-
-
-
+- [EyeBombing](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
 
 - [OneTweet](http://fourthfloor.raveweb.net/clovekin/2016/10/20/onetweet/)
 
