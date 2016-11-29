@@ -54,7 +54,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/An
 
 
 
-### Blog Posts
+### Blog Posts :thought_balloon:
 
 - [EyeBombing](http://fourthfloor.raveweb.net/clovekin/2016/10/03/eye-bombing/)
 
@@ -72,7 +72,7 @@ And Git Repo [Here](https://github.com/CallumLovekin28/CSS-Tricks/blob/master/An
 
 - [CSS Tricks](http://fourthfloor.raveweb.net/clovekin/2016/11/29/css-tricks/)
 
-### Git Projects
+### Git Projects :octocat:
 
 - [EyeBombing](https://github.com/OculusBomb/EyeBombing)
 
