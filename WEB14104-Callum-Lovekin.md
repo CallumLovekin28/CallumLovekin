@@ -95,7 +95,7 @@ And Thimble demo [Here](https://thimbleprojects.org/callumlovekin/141339/)
 
 - [Visual Perception Principles] (https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
 
-### Formative Presentation
+### Summative Presentation
 
 Click [Here](https://drive.google.com/a/students.rave.ac.uk/file/d/0Bxz8JLU6zi9EdVJSeDBzbU0zWFU/view?usp=sharing) to view my formative presentation!
 
