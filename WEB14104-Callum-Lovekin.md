@@ -87,5 +87,7 @@ And Thimble demo [Here](https://thimbleprojects.org/callumlovekin/141339/)
 
 - [CSS Tricks] (https://github.com/CallumLovekin28/CSS-Tricks/blob/master/Animate.css.md)
 
+- [Visual Perception Principles] (https://github.com/eroberts28/VisualPerceptionPrinciple/blob/master/README.md)
+
 
 
