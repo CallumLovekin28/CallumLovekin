@@ -1,8 +1,6 @@
 ![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MENTALHEALTH.jpg)
 # WEB14105 / Callum Lovekin :boy:
 
-## Info
-
 **Name:** Callum Lovekin
 
 **Student Number:** 96454216
@@ -10,15 +8,13 @@
 **Course:** WEB14105
 
 
-#### Sharing Is Caring
-
-### Video Presentation
-https://www.youtube.com/watch?v=jkWH_SiUtmk&feature=youtu.be
-
---
 ![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MYSTORY.jpg)
+
 # My Story :video_camera: :books:
 https://www.youtube.com/watch?v=ijhL3iS38a4
+
+
+
 
 My journey with mental health is still an ongoing one, and finding techniques and routines that can help me feel mentally more healthy is something I look at everyday. I have Derealization and essentially what that means is nothing feels real to me.
 
