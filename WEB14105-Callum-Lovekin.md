@@ -24,14 +24,13 @@ The story that I want my page to tell is about Mental Health. I want my page to 
 ### Visualise Information
 Using extracts from sites, dictionaries and have a brain that shows you where certain illnesses form and are in the brain. Interactive brain scans of people with mental illness and people without.
 
---
-
 ### Target Audience
 
 https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/edit?usp=sharing
 
 --
 
-### Work So Far
+# Work So Far
+Below is a link to my one page site, it is all coded an ready to go so please feel free to scroll through it!
 
 GH Pages Link - https://callumlovekin28.github.io/Sharing-Is-Caring/
