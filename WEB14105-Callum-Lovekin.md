@@ -6,11 +6,10 @@
 ### Video Presentation
 https://www.youtube.com/watch?v=jkWH_SiUtmk&feature=youtu.be
 
-### Project Video
-https://www.youtube.com/watch?v=ijhL3iS38a4
-
 --
 
+### My Story :video_camera: :books:
+https://www.youtube.com/watch?v=ijhL3iS38a4
 
 Video-presentation link, YouTube or Vimeo, make sure I have permissions to view it
 Content strategy GDoc including target audiences, content structure and copy, see week 7 and make sure I have permissions to comment on it
