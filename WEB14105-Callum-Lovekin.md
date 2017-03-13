@@ -19,16 +19,24 @@ Using extracts from sites, dictionaries and have a brain that shows you where ce
 
 https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/edit?usp=sharing
 
-### Blogs
-Sharing is caring
-JavaScript for cats
-How does the WWW work?
-Visualising information for advocacy
-Infographic stories
-Copywriting is Interface Design
-Infographics, good and bad
-Interviewing humans
-Interviewing your target audience
+### Blog Posts :thought_balloon:
+
+- [Sharing is caring](http://fourthfloor.raveweb.net/clovekin/2017/01/15/sharing-is-caring/)
+
+- [JavaScript for cats](http://fourthfloor.raveweb.net/clovekin/2017/01/19/javascript-for-cats/)
+
+- [How does the WWW work?](http://fourthfloor.raveweb.net/clovekin/2017/03/06/make-a-drawing-to-illustrate-how-the-web-works/)
+
+- [Visualising information for advocacy](http://fourthfloor.raveweb.net/clovekin/2017/03/06/get-the-idea-capturing-attention/)
+
+- [Infographic stories](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographic-stories/)
+
+- [Copywriting is Interface Design](http://fourthfloor.raveweb.net/clovekin/2017/03/06/copywriting-is-interface-design-unfinished/)
+
+- [Infographics, good and bad](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographics-good-and-bad-unfinished/)
+
+- [Interviewing humans](http://fourthfloor.raveweb.net/clovekin/2017/03/06/interviewing-humans-unfinished/)
+
 
 --
 
