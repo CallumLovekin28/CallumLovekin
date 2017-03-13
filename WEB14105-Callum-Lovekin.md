@@ -44,6 +44,8 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 
 # My Story :video_camera: :books:
 https://www.youtube.com/watch?v=ijhL3iS38a4
+Presentation
+https://www.youtube.com/watch?v=jkWH_SiUtmk
 
 
 
