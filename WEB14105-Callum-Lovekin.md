@@ -1,5 +1,15 @@
 ![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MENTALHEALTH.jpg)
-# Mental Health :pill: :ambulance:
+# WEB14105 / Callum Lovekin :boy:
+
+## Info
+
+**Name:** Callum Lovekin
+
+**Student Number:** 96454216
+
+**Course:** WEB14105
+
+
 #### Sharing Is Caring
 
 ### Video Presentation
