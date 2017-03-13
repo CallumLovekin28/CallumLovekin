@@ -2,15 +2,12 @@
 # Mental Health :pill: :ambulance:
 #### Sharing Is Caring
 
-
-
-
 ### Video Presentation
 https://www.youtube.com/watch?v=jkWH_SiUtmk&feature=youtu.be
 
 --
-
-### My Story :video_camera: :books:
+![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MYSTORY.jpg)
+# My Story :video_camera: :books:
 https://www.youtube.com/watch?v=ijhL3iS38a4
 
 Video-presentation link, YouTube or Vimeo, make sure I have permissions to view it
