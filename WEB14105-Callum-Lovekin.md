@@ -19,6 +19,17 @@ Using extracts from sites, dictionaries and have a brain that shows you where ce
 
 https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/edit?usp=sharing
 
+### Blogs
+Sharing is caring
+JavaScript for cats
+How does the WWW work?
+Visualising information for advocacy
+Infographic stories
+Copywriting is Interface Design
+Infographics, good and bad
+Interviewing humans
+Interviewing your target audience
+
 --
 
 ![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MYSTORY.jpg)
@@ -40,3 +51,5 @@ I get that question every time someone asks me and there isnt really a way I can
 Below is a link to my one page site, it is all coded an ready to go so please feel free to scroll through it!
 
 GH Pages Link - https://callumlovekin28.github.io/Sharing-Is-Caring/
+
+
