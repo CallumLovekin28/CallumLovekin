@@ -15,6 +15,10 @@ The story that I want my page to tell is about Mental Health. I want my page to 
 ### Visualise Information
 Using extracts from sites, dictionaries and have a brain that shows you where certain illnesses form and are in the brain. Interactive brain scans of people with mental illness and people without.
 
+### Research
+
+https://docs.google.com/document/d/1QDgi-XoeHvc1coyLk5kp3G0_sT7kR-05j0EGUWTEook/edit?usp=sharing
+
 ### Target Audience
 
 https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/edit?usp=sharing
@@ -37,8 +41,6 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 
 - [Interviewing humans](http://fourthfloor.raveweb.net/clovekin/2017/03/06/interviewing-humans-unfinished/)
 
-### Research
-https://docs.google.com/document/d/1QDgi-XoeHvc1coyLk5kp3G0_sT7kR-05j0EGUWTEook/edit?usp=sharing
 --
 
 ![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MYSTORY.jpg)
