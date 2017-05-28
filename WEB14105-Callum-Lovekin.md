@@ -1,4 +1,4 @@
-![Figure 1-1](http://i.imgur.com/R6GzvYv.jpg "Figure 1-1")
+![Mental Health](http://i.imgur.com/R6GzvYv.jpg "title")
 # WEB14105 / Callum Lovekin :boy:
 
 
@@ -15,6 +15,10 @@ The story that I want my page to tell is about Mental Health. I want my page to 
 
 ### Visualise Information
 Using extracts from sites, dictionaries and have a brain that shows you where certain illnesses form and are in the brain. Interactive brain scans of people with mental illness and people without.
+
+### Wireframes
+
+![Wireframes](http://i.imgur.com/PitvVxQ.png "Wireframes")
 
 ### Research
 
