@@ -61,8 +61,8 @@ What? What do you mean nothing feels real? Explain it?
 I get that question every time someone asks me and there isnt really a way I can describe what it feels like... Well atleast in a way where people will understand.
 
 
-# Work So Far
-Below is a link to my one page site, it is all coded an ready to go so please feel free to scroll through it!
+# Final Product!
+Below is a link to my one page site, so please feel free to scroll through it!
 
 GH Pages Link - https://callumlovekin28.github.io/Sharing-Is-Caring/
 
