@@ -1,4 +1,4 @@
-![Figure 1-1](http://i.imgur.com/p7976kB.jpg "Figure 1-1")
+![Figure 1-1](http://i.imgur.com/R6GzvYv.jpg "Figure 1-1")
 # WEB14105 / Callum Lovekin :boy:
 
 
@@ -44,7 +44,7 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 
 --
 
-![Mental Health] (https://raw.githubusercontent.com/CallumLovekin28/Sharing-Is-Caring/gh-pages/images/MYSTORY.jpg)
+![Figure 1-1](http://i.imgur.com/p7976kB.jpg "Figure 1-1")
 
 # My Story :video_camera: :books:
 https://www.youtube.com/watch?v=ijhL3iS38a4
