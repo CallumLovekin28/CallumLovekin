@@ -9,6 +9,7 @@
 **Course:** WEB14105
 
 --
+
 ### Story
 
 The story that I want my page to tell is about Mental Health. I want my page to inform people about the invisible illnesses that people have and the rising level of mental health in young people. I want to be able to create a one page informative site which is interactive and gets the message across about mental health. I will also be including a small story about my own experience and what I have been going through.
@@ -28,22 +29,25 @@ https://docs.google.com/document/d/1QDgi-XoeHvc1coyLk5kp3G0_sT7kR-05j0EGUWTEook/
 
 https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/edit?usp=sharing
 
+--
+
 ### Blog Posts :thought_balloon:
 
 - [Sharing is caring](http://fourthfloor.raveweb.net/clovekin/2017/01/15/sharing-is-caring/)
 - [JavaScript for cats](http://fourthfloor.raveweb.net/clovekin/2017/01/19/javascript-for-cats/)
 - [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/clovekin/2017/03/06/make-a-drawing-to-illustrate-how-the-web-works/)
-- [Get the Idea: capturing attention]()
+- [Get the Idea: capturing attention](http://fourthfloor.raveweb.net/clovekin/2017/06/01/get-the-idea-capturing-attention-2/)
 - [Infographic stories](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographic-stories/)
 - [Copywriting is Interface Design](http://fourthfloor.raveweb.net/clovekin/2017/03/06/copywriting-is-interface-design-unfinished/)
 - [Infographics, good and bad](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographics-good-and-bad-unfinished/)
 - [Interviewing humans](http://fourthfloor.raveweb.net/clovekin/2017/03/06/interviewing-humans-unfinished/)
-- [Our space interviews]()
-- [Our space personas]()
-- [10 common typography mistakes]()
-- [Web design myths]()
-- [Destroy the Web]()
-- [What did I learn?]()
+- [Our space interviews](http://fourthfloor.raveweb.net/clovekin/2017/06/01/our-space-interviews/)
+- [Our space personas](http://fourthfloor.raveweb.net/clovekin/2017/06/01/our-space-personas/)
+- [10 common typography mistakes](http://fourthfloor.raveweb.net/clovekin/2017/06/01/10-common-typography-mistakes/)
+- [Web design myths](http://fourthfloor.raveweb.net/clovekin/2017/06/01/white-space-is-wasted-space/)
+- [Destroy the Web](http://fourthfloor.raveweb.net/clovekin/2017/06/01/destroy-the-web/)
+- [What did I learn?](http://fourthfloor.raveweb.net/clovekin/2017/06/01/what-have-you-learned/)
+
 --
 
 ![Figure 1-1](http://i.imgur.com/p7976kB.jpg "Figure 1-1")
@@ -52,9 +56,6 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 https://www.youtube.com/watch?v=ijhL3iS38a4
 Presentation
 https://www.youtube.com/watch?v=jkWH_SiUtmk
-
-
-
 
 My journey with mental health is still an ongoing one, and finding techniques and routines that can help me feel mentally more healthy is something I look at everyday. I have Derealization and essentially what that means is nothing feels real to me.
 
