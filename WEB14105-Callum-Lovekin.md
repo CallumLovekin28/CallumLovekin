@@ -31,21 +31,19 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 ### Blog Posts :thought_balloon:
 
 - [Sharing is caring](http://fourthfloor.raveweb.net/clovekin/2017/01/15/sharing-is-caring/)
-
 - [JavaScript for cats](http://fourthfloor.raveweb.net/clovekin/2017/01/19/javascript-for-cats/)
-
-- [How does the WWW work?](http://fourthfloor.raveweb.net/clovekin/2017/03/06/make-a-drawing-to-illustrate-how-the-web-works/)
-
-- [Visualising information for advocacy](http://fourthfloor.raveweb.net/clovekin/2017/03/06/get-the-idea-capturing-attention/)
-
+- [Make a drawing to illustrate how the Web works](http://fourthfloor.raveweb.net/clovekin/2017/03/06/make-a-drawing-to-illustrate-how-the-web-works/)
+- [Get the Idea: capturing attention]()
 - [Infographic stories](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographic-stories/)
-
 - [Copywriting is Interface Design](http://fourthfloor.raveweb.net/clovekin/2017/03/06/copywriting-is-interface-design-unfinished/)
-
 - [Infographics, good and bad](http://fourthfloor.raveweb.net/clovekin/2017/03/06/infographics-good-and-bad-unfinished/)
-
 - [Interviewing humans](http://fourthfloor.raveweb.net/clovekin/2017/03/06/interviewing-humans-unfinished/)
-
+- [Our space interviews]()
+- [Our space personas]()
+- [10 common typography mistakes]()
+- [Web design myths]()
+- [Destroy the Web]()
+- [What did I learn?]()
 --
 
 ![Figure 1-1](http://i.imgur.com/p7976kB.jpg "Figure 1-1")
