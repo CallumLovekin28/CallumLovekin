@@ -52,7 +52,7 @@ https://docs.google.com/document/d/13R0HH4fFYEzCnMAU-A6UBru0qPy-6NoPyk2Dr60csnA/
 
 ![Figure 1-1](http://i.imgur.com/p7976kB.jpg "Figure 1-1")
 
-# My Story :video_camera: :books:
+### My Story :video_camera: :books:
 https://www.youtube.com/watch?v=ijhL3iS38a4
 Presentation
 https://www.youtube.com/watch?v=jkWH_SiUtmk
@@ -64,7 +64,7 @@ What? What do you mean nothing feels real? Explain it?
 I get that question every time someone asks me and there isnt really a way I can describe what it feels like... Well atleast in a way where people will understand.
 
 
-# Final Product!
+### Final Product!
 Below is a link to my one page site, so please feel free to scroll through it!
 
 Code Link - https://github.com/CallumLovekin28/Sharing-Is-Caring
@@ -73,6 +73,8 @@ GH Pages Link - https://callumlovekin28.github.io/Sharing-Is-Caring/
 
 Presentation - https://drive.google.com/file/d/0Bxz8JLU6zi9ETG92NUdzLUJ3WFk/view?usp=sharing
 
+
+---
 
 #  :two_men_holding_hands: Our Space :family:
 ### Dom, Peyman, Ricardo, Muhammed, Callum
