@@ -68,6 +68,7 @@ I get that question every time someone asks me and there isnt really a way I can
 Below is a link to my one page site, so please feel free to scroll through it!
 
 Code Link - https://github.com/CallumLovekin28/Sharing-Is-Caring
+
 GH Pages Link - https://callumlovekin28.github.io/Sharing-Is-Caring/
 
 
